@@ -1,0 +1,15 @@
+itemGroup.scptngtab-basic=SCP: TNG-General
+item.healing_pill.name=SCP 500
+tile.white_wall.name=White Wall
+tile.ceiling_tile.name=Ceiling Tile
+tile.wall_bottom.name=Wall Bottom
+tile.ceiling_vent.name=Ceiling Vent
+tile.tiled_floor.name=Tiled Floor
+tile.concrete_wall.name=Concrete Wall
+tile.heavy_floor.name=Heavy Floor
+tile.reinforced_steel.name=Reinforced Steel
+tile.steel_floor.name=Steel Floor
+tile.vent.name=Vent
+tile.wall_top.name=Wall Top
+tile.pill_jar.name=SCP 500 Jar
+item.jar_500.name=Jar Of SCP 500

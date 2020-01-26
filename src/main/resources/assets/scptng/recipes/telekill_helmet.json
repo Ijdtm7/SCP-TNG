@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped" ,
+
+
+
+    "pattern":
+    [
+        "iii",
+        "i i",
+        ""
+    ],
+
+    "key":
+    {
+        "i":
+        {
+            "item": "scptng:telekill_ingot"
+        }
+
+
+
+    },
+
+
+    "result":
+    {
+        "item": "scptng:telekill_helmet",
+        "count": 1
+    }
+
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped" ,
+
+
+
+    "pattern":
+    [
+        "ii ",
+        " s ",
+        " s "
+    ],
+
+    "key":
+    {
+        "i":
+        {
+            "item": "scptng:telekill_ingot"
+        },
+
+        "s":
+        {
+            "item": "minecraft:stick"
+        }
+
+    },
+
+
+    "result":
+    {
+        "item": "scptng:telekill_hoe",
+        "count": 1
+    }
+
+}

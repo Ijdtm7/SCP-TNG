@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scptng",
+  "name": "SCP: The Next Generation",
+  "description": "WIP",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Agent_Ij"],
+  "credits": "Agent Ij, wartuf, Mal, Gus, Sean, Rainbow Moose, Sir Pancakes, XSpeedRate, Edwin, Liam, Zus, and the Community",
+  "logoFile": "assets/scptng/scptnglogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
